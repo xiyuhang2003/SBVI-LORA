@@ -23,5 +23,17 @@ This repository is explicitly designed to be a lightweight, highly readable vali
 
 ### 1. Installation
 We recommend using an isolated Python 3.10+ virtual environment.
+
+## Citation
+If you find our work or the theoretical framework useful in your research, please cite our ICML 2026 paper:
+Bibtex
+@inproceedings{
+anonymous2026spectral,
+title={Spectral Bridge Variational Inference: Dynamic Lo{RA} via Bures-Wasserstein Gradient Flows},
+author={Anonymous},
+booktitle={Forty-third International Conference on Machine Learning},
+year={2026},
+url={https://openreview.net/forum?id=KjF35IhQGS}
+}
 ```bash
 pip install -r requirements.txt
